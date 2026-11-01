@@ -4,9 +4,6 @@ import shutil
 import tempfile
 import unittest
 from unittest.mock import MagicMock, patch
-import sys
-
-sys.path.insert(0, "../..")
 
 from kaggle.api.kaggle_api_extended import KaggleApi
 from kaggle.models.kaggle_models_extended import ResumableUploadResult
