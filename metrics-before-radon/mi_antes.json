@@ -1,0 +1,306 @@
+{
+  "src/kaggle/cli.py": {
+    "mi": 22.90779541477528,
+    "rank": "A"
+  },
+  "src/kaggle/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/kaggle/__main__.py": {
+    "mi": 95.00862169354211,
+    "rank": "A"
+  },
+  "src/kaggle/api/kaggle_api_extended.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/kaggle/api/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/kaggle/models/kaggle_models_extended.py": {
+    "mi": 39.3350547521943,
+    "rank": "A"
+  },
+  "src/kaggle/models/upload_file.py": {
+    "mi": 70.03957719715878,
+    "rank": "A"
+  },
+  "src/kaggle/models/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/backend/backend_tests.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_models.py": {
+    "mi": 83.8387722841505,
+    "rank": "A"
+  },
+  "tests/unit/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/test_authenticate.py": {
+    "mi": 60.241538090528564,
+    "rank": "A"
+  },
+  "tests/unit/test_benchmarks_cli.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_benchmarks_leaderboard.py": {
+    "mi": 47.88530151684343,
+    "rank": "A"
+  },
+  "tests/unit/test_benchmarks_quota.py": {
+    "mi": 55.832421040692005,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_benchmarks.py": {
+    "mi": 25.078498984275512,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_commands.py": {
+    "mi": 49.701243434099005,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_competitions.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_cli_datasets.py": {
+    "mi": 12.126555882958906,
+    "rank": "B"
+  },
+  "tests/unit/test_cli_errors.py": {
+    "mi": 51.985594690120635,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_forums.py": {
+    "mi": 51.006219928081805,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_kernels.py": {
+    "mi": 11.290043919870634,
+    "rank": "B"
+  },
+  "tests/unit/test_cli_main.py": {
+    "mi": 43.97984007704604,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_models.py": {
+    "mi": 19.21755221780339,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_pagination.py": {
+    "mi": 63.08107658045941,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_search.py": {
+    "mi": 53.79515295709821,
+    "rank": "A"
+  },
+  "tests/unit/test_competitions_list.py": {
+    "mi": 48.235248116449526,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_add_host.py": {
+    "mi": 55.294227995685006,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_create.py": {
+    "mi": 49.934578820021386,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_create_page.py": {
+    "mi": 57.74679572641642,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_create_solution.py": {
+    "mi": 66.40067725068211,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_data_update.py": {
+    "mi": 49.98154193033864,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_delete_page.py": {
+    "mi": 58.43211094304655,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_launch.py": {
+    "mi": 61.17967627800935,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_list_hosts.py": {
+    "mi": 55.975130347424894,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_settings_get.py": {
+    "mi": 55.679999783631914,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_settings_update.py": {
+    "mi": 49.1890113975775,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_solution_status.py": {
+    "mi": 55.68996243172653,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_submission_download.py": {
+    "mi": 65.14072477423836,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_submission_limits.py": {
+    "mi": 53.76966354544627,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_submit.py": {
+    "mi": 50.057062918747675,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_submit_wait.py": {
+    "mi": 37.482744646616624,
+    "rank": "A"
+  },
+  "tests/unit/test_competition_update_page.py": {
+    "mi": 50.290537063476265,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_create.py": {
+    "mi": 28.659247933648885,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_delete.py": {
+    "mi": 65.32451012430872,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_download.py": {
+    "mi": 63.45357458682492,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_list.py": {
+    "mi": 49.873412084032616,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_metadata_update.py": {
+    "mi": 54.97216169168397,
+    "rank": "A"
+  },
+  "tests/unit/test_dataset_status.py": {
+    "mi": 63.9208298998226,
+    "rank": "A"
+  },
+  "tests/unit/test_discussions_cli.py": {
+    "mi": 24.68822848835435,
+    "rank": "A"
+  },
+  "tests/unit/test_download_file_paths.py": {
+    "mi": 52.07500996485621,
+    "rank": "A"
+  },
+  "tests/unit/test_download_resume.py": {
+    "mi": 45.40199944029552,
+    "rank": "A"
+  },
+  "tests/unit/test_download_unzip.py": {
+    "mi": 45.415754798266526,
+    "rank": "A"
+  },
+  "tests/unit/test_help_version_auth.py": {
+    "mi": 78.18216923337279,
+    "rank": "A"
+  },
+  "tests/unit/test_http_client.py": {
+    "mi": 78.39541356543211,
+    "rank": "A"
+  },
+  "tests/unit/test_ignore_patterns.py": {
+    "mi": 73.79338695973337,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_logs.py": {
+    "mi": 42.52366463129708,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_output_download.py": {
+    "mi": 60.222566622435714,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_output_paths.py": {
+    "mi": 74.03689326537395,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_pull.py": {
+    "mi": 50.7532544257171,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_push.py": {
+    "mi": 51.820773926407064,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_push_no_run.py": {
+    "mi": 57.23444250305224,
+    "rank": "A"
+  },
+  "tests/unit/test_kernels_push_retired_accelerator.py": {
+    "mi": 60.70541697543455,
+    "rank": "A"
+  },
+  "tests/unit/test_kernel_parsing.py": {
+    "mi": 74.12459036578865,
+    "rank": "A"
+  },
+  "tests/unit/test_kernel_versions.py": {
+    "mi": 51.882694125882615,
+    "rank": "A"
+  },
+  "tests/unit/test_model_create.py": {
+    "mi": 24.02483441691157,
+    "rank": "A"
+  },
+  "tests/unit/test_model_delete.py": {
+    "mi": 53.9508587261759,
+    "rank": "A"
+  },
+  "tests/unit/test_model_download.py": {
+    "mi": 51.08503739185405,
+    "rank": "A"
+  },
+  "tests/unit/test_model_list.py": {
+    "mi": 56.29343253473633,
+    "rank": "A"
+  },
+  "tests/unit/test_parse_duration.py": {
+    "mi": 87.22833048339358,
+    "rank": "A"
+  },
+  "tests/unit/test_quota.py": {
+    "mi": 43.442382076808876,
+    "rank": "A"
+  },
+  "tests/unit/test_retry_after.py": {
+    "mi": 41.40565750485298,
+    "rank": "A"
+  },
+  "tests/unit/test_search.py": {
+    "mi": 37.69382063699075,
+    "rank": "A"
+  },
+  "tests/unit/test_tar_extraction_safety.py": {
+    "mi": 70.07889488450313,
+    "rank": "A"
+  },
+  "tests/unit/test_team_submissions.py": {
+    "mi": 52.11380436988984,
+    "rank": "A"
+  },
+  "tests/unit/test_upload_helpers.py": {
+    "mi": 23.271383767093436,
+    "rank": "A"
+  }
+}

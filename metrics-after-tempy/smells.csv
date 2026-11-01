@@ -1,0 +1,380 @@
+arquivo,smell,metodo,linhas
+tests/backend/backend_tests.py,Conditional Test Logic,test_files_upload,208
+tests/backend/backend_tests.py,Conditional Test Logic,test_files_upload,216
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_c_push,241
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_d_status,254
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_d_status,263
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_d_status,270
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_e_list_files,278
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_f_output,292
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_f_output,297
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_f_output,298
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_f_output,300
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_g_pull,304
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_g_pull,312
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_g_pull,314
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_a_list,342
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_b_submit,356
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_c_submissions,372
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_c_submissions,375
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_d_list_files,386
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_e_download_file,392
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_e_download_file,402
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_f_download_files,413
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_g_leaderboard_view,423
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_h_leaderboard_download,435
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_h_leaderboard_download,437
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_i_topics,448
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_i_topics,449
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_j_topic_messages,458
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_j_topic_messages,460
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_j_topic_messages,466
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_j_topic_messages,467
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_k_topics_show,473
+tests/backend/backend_tests.py,Conditional Test Logic,test_competition_k_topics_show,475
+tests/backend/backend_tests.py,Conditional Test Logic,test_forums_a_list,495
+tests/backend/backend_tests.py,Conditional Test Logic,test_forums_b_list_topics,507
+tests/backend/backend_tests.py,Conditional Test Logic,test_forums_b_list_topics,509
+tests/backend/backend_tests.py,Conditional Test Logic,test_forums_c_topic_show,517
+tests/backend/backend_tests.py,Conditional Test Logic,test_forums_c_topic_show,519
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_a_list,539
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_b_metadata,548
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_c_metadata_update,557
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_c_metadata_update,559
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_d_list_files,568
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_d_list_files,575
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_e_status,582
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_f_download_file,591
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_f_download_file,600
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_f_download_file,602
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_g_download_files,606
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_g_download_files,616
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_ia_create_new,627
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_ia_create_new,633
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_ia_create_new,634
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_ia_create_new,637
+tests/backend/backend_tests.py,Conditional Test Logic,test_dataset_j_create_version,645
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_a_list,668
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,683
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,687
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,688
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,691
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,695
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_c_create_new,701
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_d_get,712
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_e_update,718
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,738
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,740
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,748
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,749
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,750
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,753
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_b_create,757
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_c_get,771
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_d_files,790
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_d_files,796
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_e_update,802
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_e_update,823
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_f_list,829
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_f_list,836
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_a_create,844
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_a_create,849
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_b_files,855
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_c_download,867
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_c_download,868
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_c_download,877
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_c_download,881
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_c_download,883
+tests/backend/backend_tests.py,Conditional Test Logic,test_kernels_h_delete,894
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_version_d_delete,906
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_x_delete,916
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_instance_x_delete,922
+tests/backend/backend_tests.py,Conditional Test Logic,test_model_z_delete,932
+tests/backend/backend_tests.py,Exception Handling,test_files_upload,213
+tests/backend/backend_tests.py,Exception Handling,test_kernels_a_list,222
+tests/backend/backend_tests.py,Exception Handling,test_kernels_b_initialize,231
+tests/backend/backend_tests.py,Exception Handling,test_kernels_c_push,243
+tests/backend/backend_tests.py,Exception Handling,test_kernels_d_status,256
+tests/backend/backend_tests.py,Exception Handling,test_kernels_e_list_files,280
+tests/backend/backend_tests.py,Exception Handling,test_kernels_f_output,289
+tests/backend/backend_tests.py,Exception Handling,test_kernels_g_pull,307
+tests/backend/backend_tests.py,Exception Handling,test_competition_a_list,334
+tests/backend/backend_tests.py,Exception Handling,test_competition_b_submit,353
+tests/backend/backend_tests.py,Exception Handling,test_competition_c_submissions,368
+tests/backend/backend_tests.py,Exception Handling,test_competition_d_list_files,381
+tests/backend/backend_tests.py,Exception Handling,test_competition_e_download_file,395
+tests/backend/backend_tests.py,Exception Handling,test_competition_f_download_files,406
+tests/backend/backend_tests.py,Exception Handling,test_competition_g_leaderboard_view,417
+tests/backend/backend_tests.py,Exception Handling,test_competition_h_leaderboard_download,429
+tests/backend/backend_tests.py,Exception Handling,test_competition_i_topics,441
+tests/backend/backend_tests.py,Exception Handling,test_competition_j_topic_messages,462
+tests/backend/backend_tests.py,Exception Handling,test_competition_k_topics_show,477
+tests/backend/backend_tests.py,Exception Handling,test_forums_a_list,489
+tests/backend/backend_tests.py,Exception Handling,test_forums_b_list_topics,501
+tests/backend/backend_tests.py,Exception Handling,test_forums_c_topic_show,521
+tests/backend/backend_tests.py,Exception Handling,test_dataset_a_list,533
+tests/backend/backend_tests.py,Exception Handling,test_dataset_b_metadata,550
+tests/backend/backend_tests.py,Exception Handling,test_dataset_c_metadata_update,561
+tests/backend/backend_tests.py,Exception Handling,test_dataset_d_list_files,570
+tests/backend/backend_tests.py,Exception Handling,test_dataset_e_status,584
+tests/backend/backend_tests.py,Exception Handling,test_dataset_f_download_file,594
+tests/backend/backend_tests.py,Exception Handling,test_dataset_g_download_files,609
+tests/backend/backend_tests.py,Exception Handling,test_dataset_h_initialize,620
+tests/backend/backend_tests.py,Exception Handling,test_dataset_ia_create_new,629
+tests/backend/backend_tests.py,Exception Handling,test_dataset_j_create_version,647
+tests/backend/backend_tests.py,Exception Handling,test_model_a_list,662
+tests/backend/backend_tests.py,Exception Handling,test_model_b_initialize,674
+tests/backend/backend_tests.py,Exception Handling,test_model_c_create_new,685
+tests/backend/backend_tests.py,Exception Handling,test_model_d_get,707
+tests/backend/backend_tests.py,Exception Handling,test_model_e_update,720
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_a_initialize,731
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_b_create,742
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_c_get,778
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_d_files,792
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_e_update,805
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_e_update,810
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_e_update,818
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_f_list,831
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_version_a_create,846
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_version_b_files,857
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_version_c_download,871
+tests/backend/backend_tests.py,Exception Handling,test_kernels_h_delete,896
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_version_d_delete,908
+tests/backend/backend_tests.py,Exception Handling,test_model_instance_x_delete,918
+tests/backend/backend_tests.py,Exception Handling,test_model_z_delete,929
+tests/backend/backend_tests.py,Redundant Print,test_kernels_d_status,268
+tests/backend/backend_tests.py,Redundant Print,test_kernels_d_status,273
+tests/backend/backend_tests.py,Redundant Print,test_kernels_f_output,293
+tests/backend/backend_tests.py,Redundant Print,test_competition_b_submit,360
+tests/backend/backend_tests.py,Redundant Print,test_kernels_h_delete,893
+tests/backend/backend_tests.py,Redundant Print,test_model_instance_x_delete,923
+tests/backend/backend_tests.py,Sleepy Test,test_kernels_c_push,249
+tests/backend/backend_tests.py,Sleepy Test,test_kernels_d_status,266
+tests/backend/backend_tests.py,Sleepy Test,test_dataset_ib_wait_after_create,642
+tests/backend/backend_tests.py,Sleepy Test,test_model_instance_b_wait_after_create,768
+tests/backend/backend_tests.py,Unknown Test,test_files_upload,206
+tests/backend/backend_tests.py,Unknown Test,test_kernels_d_status,253
+tests/backend/backend_tests.py,Unknown Test,test_competition_b_submit,352
+tests/backend/backend_tests.py,Unknown Test,test_dataset_c_metadata_update,556
+tests/backend/backend_tests.py,Unknown Test,test_dataset_ib_wait_after_create,640
+tests/backend/backend_tests.py,Unknown Test,test_dataset_k_delete,655
+tests/backend/backend_tests.py,Unknown Test,test_model_instance_b_wait_after_create,766
+tests/backend/backend_tests.py,Unknown Test,test_model_instance_version_d_list,887
+tests/backend/backend_tests.py,Unknown Test,test_kernels_h_delete,892
+tests/backend/backend_tests.py,Programming Paradigms Blend,(nível do módulo),13;189
+tests/backend/backend_tests.py,Non-Functional Statement,test_competition_b_submit,362
+tests/backend/backend_tests.py,Non-Functional Statement,test_model_instance_e_update,808
+tests/backend/backend_tests.py,Non-Functional Statement,test_model_instance_e_update,815
+tests/backend/backend_tests.py,Non-Functional Statement,test_model_z_delete,935
+tests/integration/test_models.py,Programming Paradigms Blend,(nível do módulo),5;11
+tests/unit/conftest.py,Programming Paradigms Blend,(nível do módulo),13;35
+tests/unit/test_authenticate.py,Conditional Test Logic,test_oauth_fallback_when_legacy_config_has_no_credentials,68
+tests/unit/test_authenticate.py,Conditional Test Logic,test_oauth_fallback_when_legacy_config_has_no_credentials,70
+tests/unit/test_authenticate.py,Exception Handling,test_oauth_fallback_when_legacy_config_has_no_credentials,48
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_push_rejects_invalid_input,225
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_push_creates_task,265
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_run_schedules_models,612
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_download_bad_zip_keeps_file_and_continues,1464
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_first_rerun_after_upgrade_refreshes_stale_duplicates,2580
+tests/unit/test_benchmarks_cli.py,Conditional Test Logic,test_init_rerun_is_idempotent,2595
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_wait_monitors_pending_then_pushes,314
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_wait_polls_until_completion,352
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_adaptive_polling,370
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_large_poll_interval_adaptive_growth,389
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_verbose_prints_sleep_info,405
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_adaptive_polling_caps_at_poll_interval,420
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_push_wait_times_out,438
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_no_status_hint_when_waiting,640
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_wait_polls_until_completion,738
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_adaptive_polling,754
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_large_poll_interval_adaptive_growth,772
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_verbose_prints_sleep_info,787
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_adaptive_polling_caps_at_poll_interval,801
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_wait_times_out,815
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_run_wait_shows_errored_runs,827
+tests/unit/test_benchmarks_cli.py,Sleepy Test,test_list_retries_on_429_and_succeeds,864
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_push_rejects_invalid_input,224
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_push_propagates_server_error,323
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_push_handles_api_error,330
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_push_rejects_non_positive_poll_interval,445
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_rejects_non_positive_poll_interval,564
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_task_not_found,590
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_rejects_empty_model_list,667
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_rejects_invalid_model_selection,674
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_eof_without_models_raises,682
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_run_invalid_model_gives_friendly_error,831
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_status_task_not_found,993
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_download_task_not_found,1172
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_log_task_not_found,1597
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_slugify_task_rejects_empty_segments,1998
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_parse_error,2236
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_other_http_errors_propagate_unchanged,2361
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_http_error_without_response_propagates,2369
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_non_http_errors_propagate_unchanged,2377
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_publish_task_not_found,2957
+tests/unit/test_benchmarks_cli.py,Unknown Test,test_publish_server_error_propagates,2970
+tests/unit/test_benchmarks_cli.py,Verbose Test,test_download_bad_zip_keeps_file_and_continues,1444;1489
+tests/unit/test_benchmarks_cli.py,Programming Paradigms Blend,(nível do módulo),31;202
+tests/unit/test_benchmarks_leaderboard.py,Unknown Test,test_benchmark_leaderboard_cli_no_show_or_download_raises_value_error,164
+tests/unit/test_benchmarks_leaderboard.py,Programming Paradigms Blend,(nível do módulo),13;56
+tests/unit/test_benchmarks_quota.py,Unknown Test,test_benchmarks_quota_404_raises_friendly_error,64
+tests/unit/test_benchmarks_quota.py,Unknown Test,test_benchmarks_quota_403_raises_friendly_error,73
+tests/unit/test_benchmarks_quota.py,Unknown Test,test_benchmarks_quota_other_error_propagates,82
+tests/unit/test_benchmarks_quota.py,Programming Paradigms Blend,(nível do módulo),11;39
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_leaderboard_parser_missing_benchmark_fails,58
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_topics_show_missing_topic_ref_fails,118
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_push_parser_missing_args_fails,140
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_run_parser_missing_task_fails,181
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_status_parser_missing_task_fails,243
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_download_parser_missing_task_fails,255
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_log_parser_missing_task_fails,283
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_delete_parser_missing_task_fails,301
+tests/unit/test_cli_benchmarks.py,Unknown Test,test_benchmarks_tasks_publish_parser_missing_task_fails,313
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_logs_parser_missing_args_fails,271
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_host_add_missing_user_fails,398
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_data_update_missing_args_fails,420
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_settings_update_missing_file_fails,481
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_solution_create_missing_path_fails,494
+tests/unit/test_cli_competitions.py,Unknown Test,test_competitions_topics_show_missing_topic_ref_fails,581
+tests/unit/test_cli_datasets.py,Unknown Test,test_datasets_version_parser_missing_message_fails,210
+tests/unit/test_cli_datasets.py,Unknown Test,test_datasets_delete_parser_missing_dataset_fails,312
+tests/unit/test_cli_datasets.py,Unknown Test,test_datasets_topics_show_missing_topic_ref_fails,351
+tests/unit/test_cli_datasets.py,Verbose Test,test_datasets_list_parser_with_flags_succeeds,25;72
+tests/unit/test_cli_errors.py,Programming Paradigms Blend,(nível do módulo),15;45
+tests/unit/test_cli_forums.py,Unknown Test,test_forums_topics_show_parser_missing_topic_ref_fails,55
+tests/unit/test_cli_kernels.py,Unknown Test,test_kernels_delete_parser_missing_kernel_fails,275
+tests/unit/test_cli_kernels.py,Unknown Test,test_kernels_topics_show_missing_topic_ref_fails,314
+tests/unit/test_cli_kernels.py,Verbose Test,test_kernels_list_parser_with_flags_succeeds,25;72
+tests/unit/test_cli_models.py,Unknown Test,test_model_instances_list_parser_missing_instance_fails,257
+tests/unit/test_cli_models.py,Unknown Test,test_model_instances_delete_parser_missing_instance_fails,288
+tests/unit/test_cli_models.py,Unknown Test,test_model_instance_versions_list_parser_missing_instance_fails,315
+tests/unit/test_cli_models.py,Unknown Test,test_model_instance_versions_create_parser_missing_instance_fails,343
+tests/unit/test_cli_models.py,Unknown Test,test_model_instance_versions_download_parser_missing_version_fails,395
+tests/unit/test_cli_models.py,Unknown Test,test_model_instance_versions_files_parser_missing_version_fails,423
+tests/unit/test_cli_models.py,Unknown Test,test_model_instance_versions_delete_parser_missing_version_fails,451
+tests/unit/test_cli_pagination.py,Unknown Test,test_competitions_list_mutual_exclusion,94
+tests/unit/test_cli_pagination.py,Unknown Test,test_datasets_list_mutual_exclusion,100
+tests/unit/test_cli_pagination.py,Unknown Test,test_kernels_list_mutual_exclusion,106
+tests/unit/test_cli_pagination.py,Unknown Test,test_competition_topics_mutual_exclusion,112
+tests/unit/test_cli_search.py,Unknown Test,test_search_parser_requires_query,57
+tests/unit/test_cli_search.py,Unknown Test,test_search_parser_csv_and_format_mutually_exclusive,62
+tests/unit/test_competition_create.py,Programming Paradigms Blend,(nível do módulo),9;33
+tests/unit/test_competition_create_page.py,Exception Handling,test_cli_invokes_api_with_resolved_args,98
+tests/unit/test_competition_create_page.py,Exception Handling,test_cli_uses_competition_opt_flag,127
+tests/unit/test_competition_create_page.py,Programming Paradigms Blend,(nível do módulo),9;21
+tests/unit/test_competition_create_solution.py,Programming Paradigms Blend,(nível do módulo),10;22
+tests/unit/test_competition_data_update.py,Conditional Test Logic,test_update_directory_recurses_and_preserves_paths,92
+tests/unit/test_competition_data_update.py,Conditional Test Logic,test_update_skips_hidden_by_default,162
+tests/unit/test_competition_data_update.py,Exception Handling,test_update_empty_directory_raises,232
+tests/unit/test_competition_data_update.py,Programming Paradigms Blend,(nível do módulo),8;28
+tests/unit/test_competition_delete_page.py,Exception Handling,test_delete_cancelled_skips_request,59
+tests/unit/test_competition_delete_page.py,Exception Handling,test_cli_forwards_yes_flag,72
+tests/unit/test_competition_delete_page.py,Exception Handling,test_cli_cancelled_prints_no_success,88
+tests/unit/test_competition_delete_page.py,Programming Paradigms Blend,(nível do módulo),7;12
+tests/unit/test_competition_list_hosts.py,Programming Paradigms Blend,(nível do módulo),8;23
+tests/unit/test_competition_settings_get.py,Programming Paradigms Blend,(nível do módulo),9;22
+tests/unit/test_competition_settings_update.py,Programming Paradigms Blend,(nível do módulo),12;18
+tests/unit/test_competition_settings_update.py,Non-Functional Statement,tearDown,31
+tests/unit/test_competition_solution_status.py,Programming Paradigms Blend,(nível do módulo),10;27
+tests/unit/test_competition_submission_download.py,Programming Paradigms Blend,(nível do módulo),7;12
+tests/unit/test_competition_submission_limits.py,Programming Paradigms Blend,(nível do módulo),9;22
+tests/unit/test_competition_submit_wait.py,Conditional Test Logic,test_submission_cli_displays_fields,289
+tests/unit/test_competition_submit_wait.py,Unknown Test,test_poll_submission_non_404_http_error_propagates,167
+tests/unit/test_competition_submit_wait.py,Unknown Test,test_submit_cli_wait_propagates_scoring_error,266
+tests/unit/test_competition_update_page.py,Programming Paradigms Blend,(nível do módulo),8;20
+tests/unit/test_competitions_list.py,Programming Paradigms Blend,(nível do módulo),8;38
+tests/unit/test_dataset_delete.py,Conditional Test Logic,test_dataset_delete_cli_cancelled,38
+tests/unit/test_dataset_delete.py,Conditional Test Logic,test_dataset_delete_cli_cancelled,40
+tests/unit/test_dataset_delete.py,Programming Paradigms Blend,(nível do módulo),7;19
+tests/unit/test_dataset_download.py,Programming Paradigms Blend,(nível do módulo),7;12
+tests/unit/test_dataset_metadata_update.py,Programming Paradigms Blend,(nível do módulo),11;26
+tests/unit/test_dataset_status.py,Programming Paradigms Blend,(nível do módulo),7;31
+tests/unit/test_discussions_cli.py,Conditional Test Logic,test_topics_show_callable_with_leaked_kwargs,267
+tests/unit/test_discussions_cli.py,Conditional Test Logic,test_topics_show_callable_with_leaked_kwargs,269
+tests/unit/test_discussions_cli.py,Exception Handling,test_topics_show_callable_with_leaked_kwargs,264
+tests/unit/test_discussions_cli.py,Unknown Test,test_competitions_topics_list_does_not_accept_search,151
+tests/unit/test_discussions_cli.py,Unknown Test,test_topics_show_format_and_csv_mutual_exclusion,222
+tests/unit/test_discussions_cli.py,Unknown Test,test_topics_show_callable_with_leaked_kwargs,246
+tests/unit/test_discussions_cli.py,Unknown Test,test_dataset_list_topics_cli_requires_ref,282
+tests/unit/test_discussions_cli.py,Unknown Test,test_model_list_topics_cli_requires_ref,286
+tests/unit/test_discussions_cli.py,Unknown Test,test_benchmark_list_topics_cli_requires_ref,290
+tests/unit/test_discussions_cli.py,Unknown Test,test_kernel_list_topics_cli_requires_ref,294
+tests/unit/test_discussions_cli.py,Unknown Test,test_no_topic_raises_value_error,443
+tests/unit/test_discussions_cli.py,Unknown Test,test_invalid_slash_ref_raises_value_error,448
+tests/unit/test_discussions_cli.py,Unknown Test,test_invalid_bare_ref_raises_value_error,453
+tests/unit/test_discussions_cli.py,Unknown Test,test_benchmark_list_topics_invalid_slug,632
+tests/unit/test_discussions_cli.py,Programming Paradigms Blend,(nível do módulo),33;95
+tests/unit/test_download_file_paths.py,Conditional Test Logic,test_creating_parent_directories_leaves_no_stray_directory,84
+tests/unit/test_download_file_paths.py,Programming Paradigms Blend,(nível do módulo),9;19
+tests/unit/test_download_resume.py,Sleepy Test,test_in_process_retry_resumes,286
+tests/unit/test_download_resume.py,Verbose Test,_make_handler,42;102
+tests/unit/test_download_resume.py,Programming Paradigms Blend,(nível do módulo),23;30
+tests/unit/test_download_unzip.py,Programming Paradigms Blend,(nível do módulo),10;31
+tests/unit/test_help_version_auth.py,Unknown Test,test_top_level_version_and_help,22
+tests/unit/test_help_version_auth.py,Unknown Test,test_subcommand_csv_flag_is_not_version,28
+tests/unit/test_help_version_auth.py,Unknown Test,test_subcommand_help_still_skips_auth,32
+tests/unit/test_help_version_auth.py,Unknown Test,test_cli_help_and_version_bypass_auth,46
+tests/unit/test_help_version_auth.py,Unknown Test,test_python_dash_m_kaggle_help_bypasses_auth,55
+tests/unit/test_help_version_auth.py,Unknown Test,test_plain_python_script_does_not_bypass_auth,62
+tests/unit/test_help_version_auth.py,Unknown Test,test_host_script_help_version_flags_do_not_bypass_auth,66
+tests/unit/test_help_version_auth.py,Unknown Test,test_normal_import_without_argv_flags_does_not_bypass_auth,75
+tests/unit/test_help_version_auth.py,Unknown Test,test_other_module_dash_m_is_not_kaggle_cli,79
+tests/unit/test_help_version_auth.py,Programming Paradigms Blend,(nível do módulo),6;11
+tests/unit/test_help_version_auth.py,Undefined Test,_assert_help_or_version,17
+tests/unit/test_help_version_auth.py,Undefined Test,_assert_anonymous,40
+tests/unit/test_kernel_parsing.py,Unknown Test,test_validate_kernel_string_valid,14
+tests/unit/test_kernels_logs.py,Conditional Test Logic,test_kernels_logs_cli_follow_reports_only_repeat_failures,489
+tests/unit/test_kernels_logs.py,Conditional Test Logic,test_kernels_logs_cli_follow_gives_up_after_max_failures,521
+tests/unit/test_kernels_logs.py,Conditional Test Logic,test_kernels_output_writes_non_ascii_log,557
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_output_failed_download_is_not_written,127
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_oneshot,373
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_uses_kernel_opt,385
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_follow_streams_events,402
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_follow_skips_events_without_data,421
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_empty_log,432
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_follow_reconnects_and_dedupes,469
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_follow_reports_only_repeat_failures,503
+tests/unit/test_kernels_logs.py,Exception Handling,test_kernels_logs_cli_follow_gives_up_after_max_failures,530
+tests/unit/test_kernels_logs.py,Programming Paradigms Blend,(nível do módulo),11;28
+tests/unit/test_kernels_output_download.py,Programming Paradigms Blend,(nível do módulo),19;24
+tests/unit/test_kernels_pull.py,Conditional Test Logic,test_kernels_pull_fallback_scenarios,153
+tests/unit/test_kernels_pull.py,Conditional Test Logic,test_kernels_pull_extensions,192
+tests/unit/test_kernels_pull.py,Verbose Test,test_kernels_pull_with_metadata,87;140
+tests/unit/test_kernels_push.py,Conditional Test Logic,test_kernels_push_missing_id_and_id_no,148
+tests/unit/test_kernels_push.py,Exception Handling,test_kernels_push_utf8_behavior,78
+tests/unit/test_kernels_push.py,Verbose Test,test_kernels_push_utf8_behavior,23;90
+tests/unit/test_kernels_push.py,Verbose Test,test_kernels_push_notebook,198;254
+tests/unit/test_kernels_push_no_run.py,Programming Paradigms Blend,(nível do módulo),12;19
+tests/unit/test_kernels_push_no_run.py,Undefined Test,_sent_request,63
+tests/unit/test_kernels_push_retired_accelerator.py,Conditional Test Logic,test_each_retired_shape_names_its_replacement,112
+tests/unit/test_kernels_push_retired_accelerator.py,Programming Paradigms Blend,(nível do módulo),12;17
+tests/unit/test_kernels_push_retired_accelerator.py,Undefined Test,_sent_request,63
+tests/unit/test_model_create.py,Conditional Test Logic,test_model_instance_version_create_upload_failure_aborts,813
+tests/unit/test_model_create.py,Conditional Test Logic,test_model_instance_version_create_upload_failure_aborts,820
+tests/unit/test_model_create.py,Verbose Test,test_model_instance_update_all_fields_succeeds,250;301
+tests/unit/test_model_create.py,Programming Paradigms Blend,(nível do módulo),9;22
+tests/unit/test_model_delete.py,Programming Paradigms Blend,(nível do módulo),6;27
+tests/unit/test_model_download.py,Programming Paradigms Blend,(nível do módulo),11;18
+tests/unit/test_model_list.py,Programming Paradigms Blend,(nível do módulo),6;17
+tests/unit/test_parse_duration.py,Conditional Test Logic,test_parse_duration_does_not_raise_type_error,56
+tests/unit/test_parse_duration.py,Exception Handling,test_parse_duration_does_not_raise_type_error,57
+tests/unit/test_parse_duration.py,Unknown Test,test_parse_duration_does_not_raise_type_error,53
+tests/unit/test_quota.py,Conditional Test Logic,test_quota_refresh_timezone,48
+tests/unit/test_quota.py,Conditional Test Logic,test_quota_refresh_timezone,64
+tests/unit/test_quota.py,Exception Handling,test_quota_view_cli_format_json_projection,187
+tests/unit/test_quota.py,Exception Handling,test_quota_view_cli_skips_missing_accelerator,213
+tests/unit/test_quota.py,Exception Handling,test_quota_view_cli_no_quotas,228
+tests/unit/test_quota.py,Exception Handling,test_quota_view_cli_clamps_negative_remaining,242
+tests/unit/test_quota.py,Programming Paradigms Blend,(nível do módulo),9;29
+tests/unit/test_search.py,Programming Paradigms Blend,(nível do módulo),8;53
+tests/unit/test_tar_extraction_safety.py,Exception Handling,test_rejects_path_traversal_member,37
+tests/unit/test_tar_extraction_safety.py,Exception Handling,test_extracts_well_behaved_member,49
+tests/unit/test_team_submissions.py,Exception Handling,test_cli_format_json_projection_output,135
+tests/unit/test_team_submissions.py,Exception Handling,test_cli_empty,159
+tests/unit/test_team_submissions.py,Programming Paradigms Blend,(nível do módulo),8;27
+tests/unit/test_upload_helpers.py,Conditional Test Logic,test_upload_files_failure_aborts_and_keeps_no_partial_files,561
+tests/unit/test_upload_helpers.py,Unknown Test,test_cleanup_no_resume_returns_early,805
+tests/unit/test_upload_helpers.py,Unknown Test,test_cleanup_file_not_found_ignores_error,813
+tests/unit/test_upload_helpers.py,Programming Paradigms Blend,(nível do módulo),15;24
+tests/unit/test_upload_helpers.py,Non-Functional Statement,test_symlinked_state_dir_is_rejected,922
+tests/unit/test_upload_helpers.py,Non-Functional Statement,test_group_or_world_accessible_state_dir_is_rejected,938
